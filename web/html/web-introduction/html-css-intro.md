@@ -36,8 +36,6 @@ When creating a website, all of your unique HTML and CSS files for the same webs
     main.css
     contact.css
 ```
-
-
 ---
 
 ## Practice
